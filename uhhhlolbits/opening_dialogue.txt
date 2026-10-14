@@ -1,0 +1,1 @@
+{"DIALOGUE":["hi","am lolbit","I work now"],"FIRST_PERSON":"true"} 
