@@ -1,0 +1,1 @@
+{"DIALOGUE":["You seem to be experiencing hardware issues.","Go to support.nintendo.com for more information."],"FIRST_PERSON":"true","PHOTO_CAPTION":"Using the loose change he scrounged up while on the job, Luigi was able to construct a new home for himself where the pizzeria once was. Say hello to his new mansion!"} 
